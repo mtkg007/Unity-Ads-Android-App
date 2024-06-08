@@ -18,7 +18,6 @@ class MyApp : Application() {
                     message: String?,
                 ) {
                 }
-
             })
     }
 }
